@@ -1,0 +1,1 @@
+To conduct exploratory data analysis (EDA) on a provided dataset and adding relevant visualizations that help communicate the story that the data tells.
