@@ -1,0 +1,1 @@
+ To develop regression model for the churnGuard project. You'll determine the type of regression model that is needed and develop one using Waze's churnGuard project data.
