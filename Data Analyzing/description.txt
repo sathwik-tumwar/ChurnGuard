@@ -1,1 +1,0 @@
-To get clear insights, the user data must be inspected and prepared for the upcoming process of exploratory data analysis (EDA).
